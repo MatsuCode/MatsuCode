@@ -6,7 +6,7 @@ Here you’ll find an overview of who I am, my projects, and my passion for crea
 
 ## Who Am I
 
-Hello! I’m Bruno "Matsu" Ramon, a game developer with 3 years of experience in creating games and interactive experiences. My journey in the world of gaming started when i started to playing games, in a hospital bed at my 4 years old and got totally stunned by own amazing games are, so when i was 15, i started on the game dev universe. Since then, I’ve been working on various projects ranging from 2D platformers and retro clones to 3D survival horror games.
+Hello! I’m Bruno "Matsu" Ramon, a game developer with 3 years of experience in creating games and interactive experiences. I really like open-source software and IT stuff! My journey in the world of gaming started when i started to playing games, in a hospital bed at my 4 years old and got totally stunned by own amazing games are, so when i was 15, i started on the game dev universe. Since then, I’ve been working on various projects ranging from 2D platformers and retro clones to 3D survival horror games.
 
 ## Skills and Technologies
 
