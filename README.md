@@ -12,9 +12,9 @@ Hello! I’m Bruno "Matsu" Ramon, a game developer with 3 years of experience in
 
 Here are some of my key skills and the tools I use to develop my games:
 
-- **Programming Languages**: C#, C++, JavaScript
+- **Programming Languages**: C#, C++, JavaScript, Shell Script
 - **Game Engines**: Unity, Unreal Engine
-- **Game Design**: Game Design Documents (GDD),testing and prototyping
+- **Game Design**: Game Design Documents (GDD), testing and prototyping
 - **Art and Graphics**: Aseprite, Blender, Blockbench
 - **Other Tools**: Git, Parsec
 
