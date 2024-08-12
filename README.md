@@ -12,11 +12,11 @@ Hello! I’m Bruno "Matsu" Ramon, a game developer with 3 years of experience in
 
 Here are some of my key skills and the tools I use to develop my games:
 
-- **Programming Languages**: C#, C++, JavaScript, Shell Script
-- **Game Engines**: Unity, Unreal Engine
-- **Game Design**: Game Design Documents (GDD), testing and prototyping
-- **Art and Graphics**: Aseprite, Blender, Blockbench
-- **Other Tools**: Git, Parsec
+- 💻 **Programming Languages**: C#, C++, JavaScript, Shell Script
+- 🎮 **Game Engines**: Unity, Unreal Engine
+- 🖌️ **Game Design**: Game Design Documents (GDD), testing and prototyping
+- 🎨 **Art and Graphics**: Aseprite, Blender, Blockbench
+- ⚙️ **Other Tools**: Git, Parsec
 
 ## Recent Projects
 
@@ -24,23 +24,23 @@ Here are some of my key skills and the tools I use to develop my games:
 Brief description of the project. For example:  
 "A 2D adventure game where players explore a magical world, face challenges, and solve puzzles."
 
-- **Technologies**: Unity, C#, Git
-- **Features**: Adventure, puzzles, pixel art graphics
-- **Status**: Paused
+- 💻 **Technologies**: Unity, C#, Git
+- ⚙️ **Features**: Adventure, puzzles, pixel art graphics
+- 🔋 **Status**: Paused
 
 ### 🎮 [Claws of the Past](https://etherisgs.itch.io/claws-of-the-past)
   A brief survival horror game (with very cool velociraptors) made for "Toddyn's Jam in 2023".
 
-- **Technologies**: Unity, C#, Git
-- **Features**: 3D graphics, collecting system, stealth system
-- **Status**: Completed
+- 💻 **Technologies**: Unity, C#, Git
+- ⚙️ **Features**: 3D graphics, collecting system, stealth system
+- 🔋 **Status**: Completed
 
 ### 💻 Secret
   A cool little project is on the way...
 
-- **Technologies**: C#, Shell, Git
-- **Features**: ???
-- **Status**: In Progress
+- 💻 **Technologies**: C#, Shell, Git
+- ⚙️ **Features**: ???
+- 🔋 **Status**: In Progress
 
 ## How to Get in Touch
 
