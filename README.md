@@ -35,12 +35,12 @@ Brief description of the project. For example:
 - ⚙️ **Features**: 3D graphics, collecting system, stealth system
 - 🔋 **Status**: Completed
 
-### 💻 Secret
-  A cool little project is on the way...
+### 💻 [Eat List](https://github.com/MatsuDeveloper/EatList)
+  A cool terminal project to help making lists for food orders
 
-- 💻 **Technologies**: C#, Shell, Git
-- ⚙️ **Features**: ???
-- 🔋 **Status**: In Progress
+- 💻 **Technologies**: C#, .NET, Shell, Git
+- ⚙️ **Features**: List making
+- 🔋 **Status**: Completed
 
 ## How to Get in Touch
 
