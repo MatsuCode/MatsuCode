@@ -36,9 +36,9 @@ Brief description of the project. For example:
 - 🔋 **Status**: Completed
 
 ### 💻 [Eat List](https://github.com/MatsuDeveloper/EatList)
-  A cool terminal project to help making lists for food orders
+  A cool terminal app available to Windows and Linux that can help you making lists for food orders
 
-- 💻 **Technologies**: C#, .NET, Shell, Git
+- 💻 **Technologies**: C#, .NET, Git
 - ⚙️ **Features**: List making
 - 🔋 **Status**: Completed
 
