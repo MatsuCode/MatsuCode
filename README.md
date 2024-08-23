@@ -47,7 +47,7 @@ Brief description of the project. For example:
 I’m always open to feedback and discussions about game development. You can talk to me through the following channels:
 
 - **[My Email](bruno@arkanus.app)**
-- **[My Instagram](https://www.instagram.com/bruno.devv_?igsh=YzljYTk1ODg3Zg==)**
+- **[My Instagram](https://www.instagram.com/MatsuDev_?igsh=YzljYTk1ODg3Zg==)**
 - **[My Twitter](https://x.com/BrunoDevv)**
 - **My Discord ID**: MatsuDev
 
