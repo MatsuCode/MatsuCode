@@ -62,7 +62,8 @@ I’m always open to feedback and discussions about game development. You can ta
 
 - **[My Email](bruno@arkanus.app)**
 - **[My Instagram](https://www.instagram.com/MatsuDev_?igsh=YzljYTk1ODg3Zg==)**
-- **[My Twitter](https://x.com/BrunoDevv)**
+- **[My Twitter](https://x.com/MatsuGamedev)**
+- **[My Bsky](https://bsky.app/profile/matsudev.bsky.social)**
 - **My Discord ID**: MatsuDev
 
 Thank you for visiting my profile and for your interest in game development!
