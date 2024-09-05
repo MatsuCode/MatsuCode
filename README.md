@@ -35,14 +35,14 @@ Brief description of the project. For example:
 - ⚙️ **Features**: 3D graphics, collecting system, stealth system
 - 🔋 **Status**: Completed
 
-### 🎮 [Eco Rush]([https://gx.games/pt-br/games/43rnyo/eco-rush/])
+### 🎮 [Eco Rush](https://gx.games/pt-br/games/43rnyo/eco-rush/)
   A game made by me for my undergraduate thesis in 3 weeks while i was just starting in game dev. I like to show that because it was my first game ever, so i can see the progress i made.
 
 - 💻 **Technologies**: Game Maker Studio 2, GML
 - ⚙️ **Features**: 2D graphics, pixel art, point-n-click system
 - 🔋 **Status**: Completed
 
-### 🎮 [Asteroids ++]([https://gx.games/pt-br/games/3aejru/asteroids-plus-remake/])
+### 🎮 [Asteroids ++](https://gx.games/pt-br/games/3aejru/asteroids-plus-remake/)
   A simple Asteroids remake with co-op mode that i made i 4 hours studying game maker.
 
 - 💻 **Technologies**: Game Maker Studio 2, GML
