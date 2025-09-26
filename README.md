@@ -1,69 +1,45 @@
-# Hi! There's More About Me!👋🏻
+# 👋 Hi, you can call me Bruno!
 
-Welcome to my Game Development profile! 🚀
+🎮 Backend Developer | Game Dev | Content Creator
 
-Here you’ll find an overview of who I am, my projects, and my passion for creating games. If you’re interested in game development, programming, design, or just want to learn more about the games I’m working on, you’re in the right place!
+---
 
-## Who Am I
+## 🌐 Where to find me?
 
-Hello! I’m Bruno "Matsu" Ramon, a game developer with 3 years of experience in creating games and interactive experiences. I really like open-source software and IT stuff! My journey in the world of gaming started when i started to playing games, in a hospital bed at my 4 years old and got totally stunned by own amazing games are, so when i was 15, i started on the game dev universe. Since then, I’ve been working on various projects ranging from 2D platformers and retro clones to 3D survival horror games.
+<a href="https://youtube.com/SEU-CANAL">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://matsucode.github.com/portfolio">
+  <img src="https://img.shields.io/badge/My%20Website-8A2BE2?style=flat&logo=About.me&logoColor=white" alt="My Website"/>
+</a>
+<a href="https://linkedin.com/in/SEU-USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/SEU-USUARIO">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-## Skills and Technologies
+---
 
-Here are some of my key skills and the tools I use to develop my games:
+## 🛠️ Tech
 
-- 💻 **Programming Languages**: C#, C++, JavaScript, Shell Script
-- 🎮 **Game Engines**: Unity, Unreal Engine
-- 🖌️ **Game Design**: Game Design Documents (GDD), testing and prototyping
-- 🎨 **Art and Graphics**: Aseprite, Blender, Blockbench
-- ⚙️ **Other Tools**: Git, Parsec
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white" alt="Aseprite"/>
 
-## Recent Projects
+---
 
-### 🎮 [Locks 'n' Leaps](https://etherisgs.itch.io/locksnleaps)
-Brief description of the project. For example:  
-"A 2D adventure game where players explore a magical world, face challenges, and solve puzzles."
+## 📊 GitHub Stats
 
-- 💻 **Technologies**: Unity, C#, Git
-- ⚙️ **Features**: Adventure, puzzles, pixel art graphics
-- 🔋 **Status**: Paused
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsucode&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=matsucode&background=0d1117&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=ffffff&sideLabels=FFD700&dates=aaaaaa)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsucode&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=0d1117)
 
-### 🎮 [Claws of the Past](https://etherisgs.itch.io/claws-of-the-past)
-  A brief survival horror game (with very cool velociraptors) made for "Toddyn's Jam in 2023".
+---
 
-- 💻 **Technologies**: Unity, C#, Git
-- ⚙️ **Features**: 3D graphics, collecting system, stealth system
-- 🔋 **Status**: Completed
-
-### 🎮 [Eco Rush](https://gx.games/pt-br/games/43rnyo/eco-rush/)
-  A game made by me for my undergraduate thesis in 3 weeks while i was just starting in game dev. I like to show that because it was my first game ever, so i can see the progress i made.
-
-- 💻 **Technologies**: Game Maker Studio 2, GML
-- ⚙️ **Features**: 2D graphics, pixel art, point-n-click system
-- 🔋 **Status**: Completed
-
-### 🎮 [Asteroids ++](https://gx.games/pt-br/games/3aejru/asteroids-plus-remake/)
-  A simple Asteroids remake with co-op mode that i made i 4 hours studying game maker.
-
-- 💻 **Technologies**: Game Maker Studio 2, GML
-- ⚙️ **Features**: 2D graphics, pixel art, zero-gravity flying system
-- 🔋 **Status**: Completed
-
-### 💻 [Eat List](https://github.com/MatsuDeveloper/EatList)
-  A cool terminal app available to Windows and Linux that can help you making lists for food orders
-
-- 💻 **Technologies**: C#, .NET, Git
-- ⚙️ **Features**: List making
-- 🔋 **Status**: Completed
-
-## How to Get in Touch
-
-I’m always open to feedback and discussions about game development. You can talk to me through the following channels:
-
-- **[My Email](bruno@arkanus.app)**
-- **[My Instagram](https://www.instagram.com/MatsuDev_?igsh=YzljYTk1ODg3Zg==)**
-- **[My Twitter](https://x.com/MatsuGamedev)**
-- **[My Bsky](https://bsky.app/profile/matsudev.bsky.social)**
-- **My Discord ID**: MatsuDev
-
-Thank you for visiting my profile and for your interest in game development!
