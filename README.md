@@ -9,7 +9,7 @@
 <a href="https://youtube.com/matsucode">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-<a href="https://matsucode.github.com/portfolio">
+<a href="https://matsucode.github.io/portfolio">
   <img src="https://img.shields.io/badge/My%20Website-8A2BE2?style=flat&logo=About.me&logoColor=white" alt="My Website"/>
 </a>
 <a href="https://www.linkedin.com/in/bruno-ramon-980004276">
