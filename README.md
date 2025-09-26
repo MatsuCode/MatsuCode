@@ -6,16 +6,16 @@
 
 ## 🌐 Where to find me?
 
-<a href="https://youtube.com/SEU-CANAL">
+<a href="https://youtube.com/matsucode">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 <a href="https://matsucode.github.com/portfolio">
   <img src="https://img.shields.io/badge/My%20Website-8A2BE2?style=flat&logo=About.me&logoColor=white" alt="My Website"/>
 </a>
-<a href="https://linkedin.com/in/SEU-USUARIO">
+<a href="https://www.linkedin.com/in/bruno-ramon-980004276">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://instagram.com/SEU-USUARIO">
+<a href="https://instagram.com/matsucode">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
@@ -37,9 +37,8 @@
 
 ## 📊 GitHub Stats
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsucode&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117) 
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsucode&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsucode&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=0d1117)
 [![GitHub Streak](https://streak-stats.demolab.com?user=matsucode&background=0d1117&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=ffffff&sideLabels=FFD700&dates=aaaaaa)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsucode&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=0d1117)
 
 ---
 
