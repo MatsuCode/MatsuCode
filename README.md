@@ -67,7 +67,7 @@ My name is Bruno Ramon, I am a 20-year-old Brazilian developer from Rio Grande d
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matsucode&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFD700&include_all_commits=true&locale=en" 
   />
@@ -75,7 +75,7 @@ My name is Bruno Ramon, I am a 20-year-old Brazilian developer from Rio Grande d
   <img 
     align="left" 
     alt="Top Langs" 
-    width="410" 
+    width="370" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsucode&theme=tokyonight&title_color=FFD700&text_color=FFD700&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
