@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-My name is Bruno Ramon, I am a 20-year-old Brazilian developer from Rio Grande do Norte, Brazil. I graduated as a Computer Technician in 2022 from CEEP Lourdinha Guerra and as a Digital Games Technician from the Federal University of Rio Grande do Norte in 2023. I have been fascinated by games since childhood and share experiences, memories, and knowledge through my YouTube channel "[Matsucode](https://www.youtube.com/@matsucode)", where I talk about past experiences, development challenges, and comment on the development of famous games.
+My name is Bruno Ramon, I am a 21-year-old developer from Brazil. I graduated as a Computer Technician in 2022 from CEEP Lourdinha Guerra and as a Digital Games Technician from the Federal University of Rio Grande do Norte in 2023. I have been fascinated by computers and technology since my childhood, always trying to improve!
 
 <p align="left">
     <a href="https://youtube.com/channel/UCOU5MNZ2O9X0rJnjnTmPxXQ?sub_confirmation=1">
