@@ -10,7 +10,7 @@ Computer Science & Technology undergraduate at **Universidade Federal do Rio Gra
 - 🎯 **Career Focus:** Software Engineering (Backend & Game Development).
 - 🎮 **Game Development:** Architecting gameplay systems, mechanics, and interactive experiences.
 - 🌐 **Web Development:** Building robust, high-performance APIs and scalable backend architectures.
-- 🔬 **Research Interests:** Computational neuroscience, electroencephalography (EEG) signal processing, and interactive testing environments.
+- 💻 **Hardware:** Machine building and maintenance.
 
 ---
 
